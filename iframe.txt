@@ -1,0 +1,10 @@
+################# Trading view SENSEX Iframe ###################
+
+<iframe 
+            src="https://s.tradingview.com/widgetembed/?frameElementId=tradingview_widget&symbol=NSE:NIFTY50&interval=D&hidesidetoolbar=1&symboledit=1&saveimage=1&toolbarbg=f1f3f6&studies=[]&theme=light&style=1&timezone=Asia/Kolkata&withdateranges=1&allow_symbol_change=1&details=1&hotlist=1&calendar=1&news=1&hideideas=1&studies_overrides={}&overrides={}&enabled_features=[]&disabled_features=[]&locale=en"
+            width="100%"
+            height="500"
+            frameborder="0"
+            allowfullscreen
+            style="border: none;">
+        </iframe>
